@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30681196/README.md)
-# sarb-portfolio-stress-tester# 🇿🇦 SARB Prime Rate & Macro-Sensitive Portfolio Stress Tester
+# SARB Prime Rate & Macro-Sensitive Portfolio Stress Tester
 
 An interactive, multi-factor quantitative risk engine and stress-testing application engineered for the South African financial market. Built using Python, SciPy, and Streamlit, this dashboard models portfolio P&L sensitivity across **SARB Repo/Prime rate shifts**, **USD/ZAR exchange rate volatility**, and **sovereign yield curve movements**.
 
