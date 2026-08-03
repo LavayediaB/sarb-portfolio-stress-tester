@@ -3,6 +3,7 @@
 
 An interactive, multi-factor quantitative risk engine and stress-testing application engineered for the South African financial market. Built using Python, SciPy, and Streamlit, this dashboard models portfolio P&L sensitivity across **SARB Repo/Prime rate shifts**, **USD/ZAR exchange rate volatility**, and **sovereign yield curve movements**.
 
+**Live Interactive App:**https://sarb-portfolio-stress-tester-dgtfmd9yvhf7ryttghwzes.streamlit.app/
 ---
 
 ## Key Features
