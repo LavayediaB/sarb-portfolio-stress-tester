@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e01e0b54-3549-4e06-8849-129cabceb3c8" />
+
 [README.md](https://github.com/user-attachments/files/30681196/README.md)
 # SARB Prime Rate & Macro-Sensitive Portfolio Stress Tester
 
@@ -5,6 +7,10 @@ An interactive, multi-factor quantitative risk engine and stress-testing applica
 
 **Live Interactive App:**https://sarb-portfolio-stress-tester-dgtfmd9yvhf7ryttghwzes.streamlit.app/
 ---
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/4d07cc61-3083-443e-96d1-db2c9eabb837" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/e5ae3c92-99a2-43ab-8d07-9e48bd1a15ca" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/45040bbe-206c-4f39-b8b9-b167688d362b" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/e8ed28f5-8031-403a-a6fb-a1cb2f13d0f0" />
 
 ## Key Features
 
@@ -17,7 +23,7 @@ An interactive, multi-factor quantitative risk engine and stress-testing applica
 
 ---
 
-## 🧮 Quantitative Financial Methodology
+## Quantitative Financial Methodology
 
 ### 1. Sovereign Bond Sensitivity (Duration & Convexity)
 Fixed Income price movements under yield shocks $\Delta y$ utilize the standard second-order Taylor expansion:
@@ -42,7 +48,7 @@ $$\text{ES}_{0.95} = V_{\text{total}} \cdot \sigma_{10\text{d}} \cdot \left( \fr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.10+
 - **Quantitative & Statistical Libraries:** Pandas, NumPy, SciPy (Normal distribution & statistics)
@@ -51,7 +57,7 @@ $$\text{ES}_{0.95} = V_{\text{total}} \cdot \sigma_{10\text{d}} \cdot \left( \fr
 
 ---
 
-## 🚀 Installation & Local Execution
+## Installation & Local Execution
 
 1. **Clone the Repository:**
    ```bash
@@ -80,7 +86,8 @@ $$\text{ES}_{0.95} = V_{\text{total}} \cdot \sigma_{10\text{d}} \cdot \left( \fr
    Open your browser to `http://localhost:8501`.
 
 ---
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e42e2473-762e-4527-a896-92b3170f590c" />
 
-## 📜 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
